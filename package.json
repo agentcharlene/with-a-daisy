@@ -17,10 +17,22 @@
   },
   "homepage": "https://github.com/agentcharlene/with-a-daisy#readme",
   "dependencies": {
+    "axios": "^0.17.1",
+    "element-ui": "^2.0.8",
     "vue": "^2.5.11",
     "vue-loader": "^13.6.0",
     "vue-router": "^3.0.1",
+    "vuex": "^3.0.1",
     "webpack": "^3.10.0",
     "webpack-dev-server": "^2.9.7"
-  }
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.7",
+    "less-loader": "^4.0.5",
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.19.1",
+    "vue-template-compiler": "^2.5.11"
+  },
+  "peerDevDependencies": {}
 }
